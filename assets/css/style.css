@@ -1,17 +1,23 @@
 
 /* global styles */
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&family=Lato:wght@400;700&display=swap');
 
 /* CSS Variables */
 :root {
-    --primary-font: "DM", sans-serif;
-    --secondary-font: "Poppins", cursive;
-    --primary-color: #723d46ff; /* wine plum */
-    --secondary-color: #c9cba3ff; /* dry sage */
-    --highlight-color: #e26d5cff; /* vibrant coral */
-    --highlight-color-light: #ffe1a8ff; /* soft peach */
+    --primary-font: "EB Garamond", serif;
+    --secondary-font: "Lato", sans-serif;
+
+    --primary-color: #294638;        /* Heritage forest green */
+    --secondary-color: #F4EBDD;      /* Antique parchment */
+    --highlight-color: #783E40;      /* Heritage burgundy */
+    --highlight-color-light: #E6D5B8; /* Aged paper accent */
+
+    --text-color: #49372D;           /* Old ink brown */
+    --border-color: #AA874B;         /* Antique brass */
 }
+
 
 
 body {
